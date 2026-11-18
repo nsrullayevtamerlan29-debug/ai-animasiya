@@ -6,8 +6,8 @@ AI ilə hazırladığım animasiya, karikatura və reels videoları.
 
 <p>
 <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/vot-kofe-karikatura.gif" width="160" alt="VOT — Kofe karikaturası"></a>
-<a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/codementor-karikatura.gif" width="160" alt="Codementor.x — Riyaziyyat dərsi"></a>
-<a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/talant-690-karikatura.gif" width="160" alt="Talant — 690 bal"></a>
+<a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/codementor-karikatura.gif" width="160" alt="Codementor.x — Bakıda bir həyat hekayəsi"></a>
+<a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/talant-690-karikatura.gif" width="160" alt="Talant — Riyaziyyat dərsi (690 bal)"></a>
 <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/vusale-target-karikatura.gif" width="160" alt="Meta targetoloq — karikatura"></a>
 <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/vot-doodle-seki.gif" width="160" alt="VOT — Şəkidə sosial media (doodle)"></a>
 <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="previews/codementor-x-tanitim.gif" width="160" alt="Codementor.x — Tanıtım"></a>
